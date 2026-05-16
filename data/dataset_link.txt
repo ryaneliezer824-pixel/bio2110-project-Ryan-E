@@ -1,2 +1,5 @@
 DGIdb Interactions Dataset:
 https://www.dgidb.org/downloads
+
+Dataset used:
+Latest (2024-Dec) interactions.tsv
